@@ -1,0 +1,10 @@
+[
+    {
+        "name": "agent_deployment_1",
+        "module": {"name": "test_module1"},
+        "node": {"ip": "localhost"},
+        "config": {
+            "llm_config": {"config_name": "model_1"}
+        }
+    }
+]
